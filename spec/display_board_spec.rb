@@ -165,4 +165,5 @@ describe "#display_board in 'lib/display_board.rb" do
     rows = output.split("\n")
     expect(true).to be(true)
   end
+end
   
